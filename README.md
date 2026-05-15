@@ -1,4 +1,4 @@
-# spotify-global-music-analysis
+# spotify-streaming-trend-analysis
 
 **Author:** Luna Li  
 **Affiliation:** University of Washington · Statistics (Data Science Focus)
